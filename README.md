@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **MohamedRadyA/MohamedRadyA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am currently a student at Faculty of Computers and Artificial Intelligence Cairo University.
 
 ### Programming languages:
 
