@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 - 👯 I’m looking to collaborate on **open-source projects**
 
-- 🤝 I’m looking for help with **AI and machine learning projects**
+- 🤝 I’m interested in **AI and machine learning projects**
 
 - 💬 Ask me about **anything tech-related, I'm happy to help**
 
