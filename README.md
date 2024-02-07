@@ -12,12 +12,46 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am currently a student at Faculty of Computers and Artificial Intelligence Cairo University.
+<h1 align="center">Hi there 👋, I'm Mohamed Rady</h1>
+<h3 align="center">A passionate Computer Science student in my third year, eager to explore and contribute to the tech world.</h3>
 
-### Programming languages:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MohamedRadyA&label=Profile%20views&color=0e75b6&style=flat" alt="Mohamed Rady" />
+</p>
 
-<p>
-<img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png">
-<img height="50" src="https://user-images.githubusercontent.com/101745968/178999780-091c7c40-e016-4825-bc88-1657786ef85f.png">
-<img height="50" src="https://camo.githubusercontent.com/7b23e6c442adf9ef0714d6b52c2621b3ebef58bcc2f101b8dabab05904201e4f/68747470733a2f2f63646e2e69636f6e73636f75742e636f6d2f69636f6e2f667265652f706e672d3235362f6a6176612d34332d3536393330352e706e67">
+- 🔭 I’m currently working on **my portfolio of projects**
+
+- 🌱 I’m currently learning **advanced data structures and algorithms**
+
+- 👯 I’m looking to collaborate on **open-source projects**
+
+- 🤝 I’m looking for help with **AI and machine learning projects**
+
+- 💬 Ask me about **anything tech-related, I'm happy to help**
+
+- 📫 How to reach me: **mohamedradyahm@gmail.com**
+
+
+### Languages and Tools:
+
+<p align="left">
+  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+  <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+  <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cpp/cpp-original.svg" alt="cplusplus" width="40" height="40"/> </a>
+  <!-- Add more icons as per your skills -->
+</p>
+
+### My GitHub Stats:
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MohamedRadyA&show_icons=true&locale=en" alt="Mohamed Rady" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedRadyA&" alt="Mohamed Rady" /></p>
+
+### Connect with me:
+
+<p align="left">
+<a href="https://linkedin.com/in/mohamedradya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="Mohamed Rady" height="30" width="40" /></a>
+<!-- Add other social links if needed -->
 </p>
